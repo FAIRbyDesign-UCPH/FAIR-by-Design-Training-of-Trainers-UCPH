@@ -44,19 +44,13 @@ Learning objectives should describe what new knowledge and skills will be obtain
 
 The learning objectives are used to organize specific topics or individual learning activities so that the learner can most effectively achieve the overall learning outcome.
 
-To ensure standardization and wide understanding of the learning objective, it is best practice to define the learning objectives using a well-known taxonomy such as the [Bloom’s taxonomy](https://cmapspublic2.ihmc.us/rid=1Q2PTM7HL-26LTFBX-9YN8/Krathwohl%202002.pdf). 
+To ensure standardization and wide understanding of the learning objective, it is best practice to define the learning objectives using the SOLO taxonomy. The SOLO taxonomy (Structure of Observed Learning Outcomes)is a classification of the different learning objectives and skills that educators set for their students (learing outcomes). The framework is based on the idea that there are fove different levels of understanding: Pre-structural, Uni-structural, Multi-structural, Relational and Extended Abstract. Students move through these levels by engaging in increasingly complex tasks and ideas.
 
-The Bloom's Taxonomy is a classification of the different objectives and skills that educators set for their students (learning outcomes). The cognitive domain categorizes the human learning process into 6 hierarchical levels: Remember, Understand, Apply, Analyze, Evaluate, and Create. 
+"[SOLO taxonomy approach](https://en.wikipedia.org/wiki/Structure_of_observed_learning_outcome#/media/File:Structure_of_Observed_Learning_Outcomes_(SOLO)_Taxonomy.png)" from [Doug Belshaw](https://commons.wikimedia.org/wiki/File:Structure_of_Observed_Learning_Outcomes_(SOLO)_Taxonomy.png) liscensed under the [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.en).
 
-![Description of the complexity levels for the cognitive domain](./attachments/Bloom's_Revised_Taxonomy.jpg)
-"[Bloom's Revised Taxonomy](https://www.flickr.com/photos/vandycft/29428436431)" by [Vanderbilt University Center for Teaching](https://cft.vanderbilt.edu) licensed under the terms of the [CC-BY-2.0](https://creativecommons.org/licenses/by/2.0/).
+When defining objecgtives using the solo taxonomy, correct verbs should be used for each objective based on the level the learners need to acheive. For these purposes, the example verbs provided in the image can be used.
 
-When defining learning objectives using the Bloom's taxonomy, correct verbs should be used for each objective based on the level the learners needs to achieve. For these purposes the example verbs provided in the image can be used.
-
-![List of verbs on each complexity level in the cognitive domain](./attachments/Bloom’s_Taxonomy_Verbs.png)
-[Bloom's taxonomy](https://en.wikipedia.org/wiki/Bloom%27s_taxonomy#/media/File:Bloom%E2%80%99s_Taxonomy_Verbs.png) by [Fractus Learning](https://www.fractuslearning.com/). (2023, July 10). In [Wikipedia](https://en.wikipedia.org/wiki/Bloom%27s_taxonomy) licensed under the terms of [CC BY-SA 4.0](https://creativecommons.org/licenses/by/4.0/).  
-
-This approach will significantly improve the findability of the produced resources, as well as the potential reuse of individual learning objects in different aggregations.
+"[Verbs for different levels in SOLO taxonomy](https://www.scribd.com/document/589494660/ciu-solo-table-verbs-taxonomy)" from [Copyright © 2025 Scribd Inc]
 
 The number of learning objectives depends on the aggregation level of the learning resource that is being developed. 
 

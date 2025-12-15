@@ -72,7 +72,7 @@ It is recommended that you follow the **Hunter's model** for developing a learni
 1. Set the learning objectives
     - These are lower level learning objectives for the particular learning unit. Combining all learning objectives from all units should lead to the high level learning objectives defined in the syllabus.
 	- Ensure these are clear and follow a logical order that is easy to understand and help identify meaningful concepts and ideas.
-	- Follow the Bloom's taxonomy again.
+	- Follow the SOLO taxonomy again
 2. Identify the needs of the target audience
     - Make sure you are prepared to help learners along the way
 3. Plan your training material
@@ -137,7 +137,7 @@ Note that the development process is iterative. As you develop the content later
 
 ## Learning Content
 
-Once you have a plan, it is time to start developing the learning content. Remember to design the content so that it appeals learners with different modalities (verbal, audio, read/write, kinesthetic) including different multimedia. 
+Once you have a plan, it is time to start developing the learning content. Remember to design the content so that it engages learners in different ways (textual/visual/auditory input, by writing, kinesthetically, etc.).
 
 The learners notebook is the main learning content that you are aiming to introduce the learners to. The content of each **learning unit notebook** should include:
 
@@ -209,7 +209,7 @@ In general, quizzes can be used in a large variety of settings, providing opport
 
 In this way, it is up to the instructor to setup the assessment: is it going to be multiple quizzes throughout or is it going to be one in the end. 
 
-When designing the quiz questions one should go back to the Bloom's taxonomy introduced in [02 Preparing FAIR learning objects](../../Stage%201%20–%20Prepare/02-Preparing%20FAIR%20Learning%20Objects/02-Preparing%20FAIR%20Learning%20Objects_cont.md). This time however, you are interested in what type of quiz question can be used to assess the knowledge of a different level of the cognitive domain. This is presented in the table below.
+When designing the quiz questions one should go back to the SOLO taxonomy introduced in [02 Preparing FAIR learning objects](../../Stage%201%20–%20Prepare/02-Preparing%20FAIR%20Learning%20Objects/02-Preparing%20FAIR%20Learning%20Objects_cont.md). This time however, you are interested in what type of quiz question can be used to assess the knowledge and skills of a certain level of understanding.
 
 |                | **T/F** | **MC** | **MS** | **LA** | **SA** | **FIB** | **MAT** | **ORD** |
 |----------------|---------|--------|--------|--------|--------|---------|---------|---------|

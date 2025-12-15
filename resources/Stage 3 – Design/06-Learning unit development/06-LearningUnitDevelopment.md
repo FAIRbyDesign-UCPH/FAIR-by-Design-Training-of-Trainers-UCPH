@@ -286,4 +286,4 @@ Note that in the next stage, Prepare, you will train on how to create the conten
 - [Calmet Moodle Unit 4 - Design opportunities for practice and assessment](https://etrp.wmo.int/mod/quiz/view.php?id=11326) by WMO
 - [15 active learning activities to energize your next college class](https://www.nureva.com/blog/education/15-active-learning-activities-to-energize-your-next-college-class)
 - [GIFT (file format)](https://en.wikipedia.org/wiki/GIFT_(file_format)#:~:text=GIFT%20allows%20someone%20to%20use,%2D8%2Dencoded%20text%20file.)
-- [Moodle quiz settings](https://docs.moodle.org/402/en/Quiz_settings)
+- [Creating quizzes in the UCPH learning management system Absalon (Canvas)](https://docs.moodle.org/402/en/Quiz_settings](https://obl.ku.dk/ku-absalon/how-to-make-quizzes-or-surveys-for-your-students/)

@@ -53,17 +53,15 @@ To ensure standardization and wide understanding of the learning objective, it i
 
 When defining objectives using the Solo Taxonomy, correct verbs should be used for each objective based on the level the learners need to acheive. For these purposes, the example verbs provided in the document developed by the Workshop on Constructive Alignment can be used, som examples are shown in the table below.
 
+<div style="text-align: center;">
+
   SOLO 2| SOLO 3| SOLO 4 | SOLO 5 |
  |----------|----------|----------|----------|
  | Arrange | Account for | Analyse | Assess |
  | Decide| Combine | Categorise | Develop |
- | Tell| Revise | Theorise| Theorise  |
+ | Tell| Revise | Observe| Theorise  |
 
-| SOLO 2 | SOLO 3 | SOLO 4 | SOLO 5
-|----------|----------|----------|
-| Arrange | Account for | Analyse | Assess |
-| Decide | Combine 2 | Categorise | Develop | 
-| Tell | Revise | Observe | Theorise | 
+</div>
 
 The full document which outlines appropriate verbs for different levels of the SOLO Taxonomy, categorizing them from SOLO 2 to SOLO 5 can be viewed via this link: "[Verbs for different levels in SOLO taxonomy](https://www.scribd.com/document/589494660/ciu-solo-table-verbs-taxonomy)" from [Copyright © 2025 Scribd Inc]
 

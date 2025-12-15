@@ -46,6 +46,9 @@ The learning objectives are used to organize specific topics or individual learn
 
 To ensure standardization and wide understanding of the learning objective, it is best practice to define the learning objectives using the SOLO taxonomy. The SOLO taxonomy (Structure of Observed Learning Outcomes)is a classification of the different learning objectives and skills that educators set for their students (learing outcomes). The framework is based on the idea that there are fove different levels of understanding: Pre-structural, Uni-structural, Multi-structural, Relational and Extended Abstract. Students move through these levels by engaging in increasingly complex tasks and ideas.
 
+![SOLO taxonomy approach](<img width="1434" height="960" alt="image" src="https://github.com/user-attachments/assets/2dcef8e8-e926-4c56-9f7b-687bc2a4c0cc" />)
+
+
 "[SOLO taxonomy approach](https://en.wikipedia.org/wiki/Structure_of_observed_learning_outcome#/media/File:Structure_of_Observed_Learning_Outcomes_(SOLO)_Taxonomy.png)" from [Doug Belshaw](https://commons.wikimedia.org/wiki/File:Structure_of_Observed_Learning_Outcomes_(SOLO)_Taxonomy.png) liscensed under the [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.en).
 
 When defining objecgtives using the solo taxonomy, correct verbs should be used for each objective based on the level the learners need to acheive. For these purposes, the example verbs provided in the image can be used.

@@ -49,7 +49,6 @@ To ensure standardization and wide understanding of the learning objective, it i
 ![SOLO taxonomy approach](resources/attachments/Structure_of_Observed_Learning_Outcomes_(SOLO)_Taxonomy.png)
 
 
-
 "[SOLO taxonomy approach](https://en.wikipedia.org/wiki/Structure_of_observed_learning_outcome#/media/File:Structure_of_Observed_Learning_Outcomes_(SOLO)_Taxonomy.png)" from [Doug Belshaw](https://commons.wikimedia.org/wiki/File:Structure_of_Observed_Learning_Outcomes_(SOLO)_Taxonomy.png) liscensed under the [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.en).
 
 When defining objecgtives using the solo taxonomy, correct verbs should be used for each objective based on the level the learners need to acheive. For these purposes, the example verbs provided in the image can be used.

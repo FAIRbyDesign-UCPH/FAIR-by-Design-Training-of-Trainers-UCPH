@@ -53,6 +53,11 @@ To ensure standardization and wide understanding of the learning objective, it i
 
 When defining objectives using the Solo Taxonomy, correct verbs should be used for each objective based on the level the learners need to acheive. For these purposes, the example verbs provided in the document developed by the Workshop on Constructive Alignment can be used, som examples are shown in the table below.
 
+  Header 1 | Header 2 | Header 3 |
+ |----------|----------|----------|
+ | Row 1, Cell 1 | Row 1, Cell 2 | Row 1, Cell 3 |
+ | Row 2, Cell 1 | Row 2, Cell 2 | Row 2, Cell 3 |
+
 | SOLO 2 | SOLO 3 | SOLO 4 | SOLO 5
 |----------|----------|----------|
 | Arrange | Account for | Analyse | Assess |

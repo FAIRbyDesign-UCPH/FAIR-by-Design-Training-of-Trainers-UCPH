@@ -53,7 +53,6 @@ To ensure standardization and wide understanding of the learning objective, it i
 
 When defining objectives using the Solo Taxonomy, correct verbs should be used for each objective based on the level the learners need to acheive. For these purposes, the example verbs provided in the document developed by the Workshop on Constructive Alignment can be used, som examples are shown in the table below.
 
-<div style="text-align: center;">
 
   SOLO 2| SOLO 3| SOLO 4 | SOLO 5 |
  |----------|----------|----------|----------|
@@ -61,12 +60,11 @@ When defining objectives using the Solo Taxonomy, correct verbs should be used f
  | Decide| Combine | Categorise | Develop |
  | Tell| Revise | Observe| Theorise  |
 
-</div>
 
 The full document which outlines appropriate verbs for different levels of the SOLO Taxonomy, categorizing them from SOLO 2 to SOLO 5 can be viewed via this link: "[Verbs for different levels in SOLO taxonomy](https://www.scribd.com/document/589494660/ciu-solo-table-verbs-taxonomy)" from [Copyright © 2025 Scribd Inc]
 
 
-The number of learning objectives depends on the aggregation level of the learning resource that is being developed. 
+The number of learning objectives depends on the aggregation level of the learning resource that is being developed, but it is recommended to use minimum verbs from the SOLO taxonomy to describe your learning objectives.
 
 ### Ideation exercise
 
@@ -91,4 +89,4 @@ Then the instructional design can begin following a backward approach: define th
 ## Suggested Reading
 
 - [Where to start: Backward Design by MIT Teaching and Learning Lab](https://tll.mit.edu/teaching-resources/course-design/backward-design/)
-- [Terrell Heick, What Is Bloom’s Taxonomy? A Definition For Teachers, on Teach Thought, August 14, 2021 ](https://www.teachthought.com/learning/what-is-blooms-taxonomy/)
+- [Biggs, John B., & Collis, Kevin, F (1982). Evaluating the quality of learning: the SOLO taxonomy, structure of the observed learning outcome]([https://www.teachthought.com/learning/what-is-blooms-taxonomy](https://www.sciencedirect.com/book/monograph/9780120975525/evaluating-the-quality-of-learning)/)

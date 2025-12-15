@@ -57,6 +57,7 @@ When defining objectives using the Solo Taxonomy, correct verbs should be used f
  |----------|----------|----------|
  | Arrange | Account for | Analyse |
  | Decide| Combine | Categorise |
+ | Tell| Revise | Theorise|
 
 | SOLO 2 | SOLO 3 | SOLO 4 | SOLO 5
 |----------|----------|----------|

@@ -51,9 +51,16 @@ To ensure standardization and wide understanding of the learning objective, it i
 
 "[SOLO taxonomy approach](https://en.wikipedia.org/wiki/Structure_of_observed_learning_outcome#/media/File:Structure_of_Observed_Learning_Outcomes_(SOLO)_Taxonomy.png)" from [Doug Belshaw](https://commons.wikimedia.org/wiki/File:Structure_of_Observed_Learning_Outcomes_(SOLO)_Taxonomy.png) liscensed under the [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.en).
 
-When defining objecgtives using the solo taxonomy, correct verbs should be used for each objective based on the level the learners need to acheive. For these purposes, the example verbs provided in the image can be used.
+When defining objectives using the Solo Taxonomy, correct verbs should be used for each objective based on the level the learners need to acheive. For these purposes, the example verbs provided in the document developed by the Workshop on Constructive Alignment can be used, som examples are shown in the table below.
 
-"[Verbs for different levels in SOLO taxonomy](https://www.scribd.com/document/589494660/ciu-solo-table-verbs-taxonomy)" from [Copyright © 2025 Scribd Inc]
+| SOLO 2 | SOLO 3 | SOLO 4 | SOLO 5
+|----------|----------|----------|
+| Arrange | Account for | Analyse | Assess |
+| Decide | Combine 2 | Categorise | Develop | 
+| Tell | Revise | Observe | Theorise | 
+
+The full document which outlines appropriate verbs for different levels of the SOLO Taxonomy, categorizing them from SOLO 2 to SOLO 5 can be viewed via this link: "[Verbs for different levels in SOLO taxonomy](https://www.scribd.com/document/589494660/ciu-solo-table-verbs-taxonomy)" from [Copyright © 2025 Scribd Inc]
+
 
 The number of learning objectives depends on the aggregation level of the learning resource that is being developed. 
 

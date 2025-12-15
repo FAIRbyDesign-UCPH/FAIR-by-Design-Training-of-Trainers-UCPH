@@ -89,4 +89,4 @@ Then the instructional design can begin following a backward approach: define th
 ## Suggested Reading
 
 - [Where to start: Backward Design by MIT Teaching and Learning Lab](https://tll.mit.edu/teaching-resources/course-design/backward-design/)
-- [Biggs, John B., & Collis, Kevin, F (1982). Evaluating the quality of learning: the SOLO taxonomy, structure of the observed learning outcome](https://www.teachthought.com/learning/what-is-blooms-taxonomy](https://www.sciencedirect.com/book/monograph/9780120975525/evaluating-the-quality-of-learning)/)
+- [Biggs, John B., & Collis, Kevin, F (1982). Evaluating the quality of learning: the SOLO taxonomy, structure of the observed learning outcome](https://www.sciencedirect.com/book/monograph/9780120975525/evaluating-the-quality-of-learning)/)

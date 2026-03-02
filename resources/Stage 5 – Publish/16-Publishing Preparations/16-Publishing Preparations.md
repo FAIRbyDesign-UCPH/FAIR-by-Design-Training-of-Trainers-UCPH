@@ -19,24 +19,10 @@ Before publishing the learning materials on Zenodo and other platforms, it is im
 - Describe relevant software tools required for creating and validating the accompanying files
 - Develop appropriate accompanying files for custom repositories hosting FAIR-by-Design learning materials
 
-## Target Audience
-
-- Attendees of the FAIR-by-Design ToT live webinar
-
-## Duration
-
-35 mins
 
 ## Prerequisites
 
 [Stage 4 – Produce](../../Stage%204%20–%20Produce/08-Development%20Tools/08-Introduction%20to%20Markdown%20and%20Git.md)
-
-## Learning Tools
-
-- Training BBB room
-- GitHub Desktop
-- Obsidian
-- Text editor
 
 ## Preparing the Collaborative Environment
 

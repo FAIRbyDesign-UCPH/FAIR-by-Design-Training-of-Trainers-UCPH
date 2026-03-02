@@ -17,23 +17,11 @@ Once the discovery stage is completed, you enter the third step of the backward 
 - Compose a content concept map
 - Prepare a syllabus
 
-## Target Audience
-
-- attendees of the FAIR-by-Design ToT live webinar
-
-## Duration
-
-35 mins
 
 ## Prerequisites
 
 Completed [Prepare](../../Stage%201%20–%20Prepare/01-FAIR%20skills%20&%20principles/01-FAIR%20skills%20&%20principles.md) stage of the FAIR-by-Design methodology training
 
-## Learning Tools
-
-- Training BBB room
-- Browser
-- Menti access or BBB quiz interaction
 
 ## Content concept map
 

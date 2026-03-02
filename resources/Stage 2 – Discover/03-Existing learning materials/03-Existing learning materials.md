@@ -18,23 +18,10 @@ author: Skills4EOSC T2.3
 - Compare learning materials repositories
 - Discover learning materials catalogues
 
-## Target Audience
-
-- attendees of the FAIR-by-Design ToT live webinar
-
-## Duration
-
-60 mins
-
 ## Prerequisites
 
-Completed [Stage 1: Prepare](../../Stage%201%20–%20Prepare/01-FAIR%20skills%20&%20principles/01-FAIR%20skills%20&%20principles.md)
+Make sure you have read the "Prepare" stage before attempting this lesson
 
-## Learning Tools
-
-- Training BBB room
-- Browser
-- Menti access or BBB quiz interaction
 
 ## Continuing with the Instructional Design Process
 
@@ -99,16 +86,6 @@ A short illustrative list is:
 - [OSF](https://osf.io/) - a free, open platform to support your research and enable collaboration
 - and others ...
 
-### Learning Resources discovered within Skills4EOSC
-
-**Links provided in this subsection lead to the Skills4EOSC collaborative platform and may not work for external parties that are not project members**.
-
-
-The following list provides links to landscaping documents created by different tasks within the Skills4EOSC projects with the aim to discover and analyse already existing learning resources on different project relevant topics. While many of the links will overlap with the links provided in the above sections, these documents provide an excellent starting point for the discovery of existing learning resources journey:
-
-- [Landscaping Data Steward Curriculum Courses](https://workplace.skills4eosc.eu/Products/Files/DocEditor.aspx?fileid=3419) performed by T4.1
-- [Landscaping Train the Trainer resources](https://workplace.skills4eosc.eu/Products/Files/DocEditor.aspx?fileid=3549) performed by T2.5 together with a [summary report](https://workplace.skills4eosc.eu/Products/Files/DocEditor.aspx?fileid=3550)
-- [Training resources for policy makers](https://workplace.skills4eosc.eu/Products/Files/DocEditor.aspx?fileid=3591) defined by WP3
 
 ## Open multimedia
 

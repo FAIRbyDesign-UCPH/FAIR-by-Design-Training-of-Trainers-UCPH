@@ -48,10 +48,7 @@ The main reason for using Power Point - like applications for generating the sli
 - slide transitions
 - etc.
 
-When using Power Point for the Skills4EOSC trainings, you should 
-
-1. start from the Skills4EOSC template 
-2. use the [Learning_unit_content template](https://github.com/FAIR-by-Design-Methodology/templates/blob/main/resources/Learning%20Unit/Learning_unit_content.pptx) to guide you regarding the set and order of slides that the training should have
+When using Power Point, you should use the [Learning_unit_content template](https://github.com/FAIRbyDesign-UCPH/templates/blob/main/resources/Learning%20Unit/Learning_unit_content.pptx) to guide you regarding the set and order of slides that the training should have
 	- this template has been developed based on the HUNTER model discussed in [Stage 3: Design](../../Stage%203%20–%20Design/06-Learning%20unit%20development/06-LearningUnitDevelopment.md)
 
 As there is a separate Skills4EOSC training on how to design effective slides, here we will provide just a few tips and tricks on the aspects of Power Point slides design:
@@ -94,7 +91,7 @@ Obsidian does not offer an official plugin to work with Quarto, but there is a c
 
 You are now able to work with qmd files in Obsidian.
 
-To create a qmd slide deck, you can start from the [template_quarto.qmd](https://github.com/FAIR-by-Design-Methodology/templates/blob/main/resources/Learning%20Unit/template_quarto.qmd) that is available in the templates GitHub repository. Copy the file in the learning unit folder where you want to develop your slide deck and then start editing it. The template provides a number of examples of different basic slide layouts that you can use.
+To create a qmd slide deck, you can start from the [template_quarto.qmd](https://github.com/FAIRbyDesign-UCPH/templates/blob/main/resources/Learning%20Unit/template_quarto.qmd) that is available in the templates GitHub repository. Copy the file in the learning unit folder where you want to develop your slide deck and then start editing it. The template provides a number of examples of different basic slide layouts that you can use.
 
 ### Creating a slide deck with Quarto
 

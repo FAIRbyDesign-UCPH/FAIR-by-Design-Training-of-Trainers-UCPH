@@ -21,25 +21,10 @@ The purpose of this learning unit is to introduce the basic Markdown syntax nece
 - Develop new learning materials from scratch by applying the Markdown syntax on existing template documents
 - Manipulate existing learning objects, making them compliant with the FAIR-by-Design methodology. 
 
-## Target Audience
-
-- Attendees of the FAIR-by-Design ToT live webinar
-
-## Duration
-
-75 mins
-
 ## Prerequisites
 
 Completed [08 - Development Tools](../08-Development%20Tools/08-Introduction%20to%20Markdown%20and%20Git.md)
 
-## Learning Tools
-
-- Training BBB room
-- Browser
-- Menti access or BBB quiz interaction
-- GitHub Desktop Software
-- Obsidian Markdown Editor
 
 ## Introduction
 

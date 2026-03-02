@@ -19,23 +19,9 @@ One of the publishing media for the created learning materials is Zenodo. Zenodo
 - Author new version releases of the learning materials
 - Examine draft publications on Zenodo
 
-## Target Audience
-
-- Attendees of the FAIR-by-Design ToT live webinar
-
-## Duration
-
-55 mins
-
 ## Prerequisites
 
 [16-Publishing Preparations](../16-Publishing%20Preparations/16-Publishing%20Preparations.md)
-
-## Learning Tools
-
-- Training BBB room
-- GitHub Desktop
-- Obsidian
 
 ## Description of the Automated Publishing Workflow
 

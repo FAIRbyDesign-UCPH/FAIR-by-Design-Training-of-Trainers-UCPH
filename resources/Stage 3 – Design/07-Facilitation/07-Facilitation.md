@@ -19,22 +19,9 @@ We already looked at some of the facilitation documents that are part of the ins
 - Structure learning materials
 - Gather supporting elements
 
-## Target Audience
-
-- attendees of the FAIR-by-Design ToT live webinar
-
-## Duration
-
-45 mins
-
 ## Prerequisites
 
 Completed [06 - Learning Unit Development](../06-Learning%20unit%20development/06-LearningUnitDevelopment.md)
-
-## Learning Tools
-
-- Training BBB room
-- Browser
 
 ## The Instructor Kit
 
@@ -141,9 +128,6 @@ In your opinion
 - the least useful part of the training is [free text]
 - the training could have been improved by [free text]
 
-### Activity
-
-Take a look at the [feedback form](https://learning.skills4eosc.eu/mod/feedback/view.php?id=36) available for this training. We will ask you fill it out later on.
 
 ## Logical organisation
 
@@ -183,10 +167,6 @@ The **logical structure** that **must** be followed is as follows:
 	- LICENSE file
 	- CITATION file
 	- CODE_OF_CONDUCT file
-
-### Activity
-
-Take a look at the logical organisation of the learning materials for this training [FAIR-by-Design ToT](https://github.com/FAIR-by-Design-Methodology/FAIR-by-Design_ToT).
 
 ## Machine-readable metadata
 

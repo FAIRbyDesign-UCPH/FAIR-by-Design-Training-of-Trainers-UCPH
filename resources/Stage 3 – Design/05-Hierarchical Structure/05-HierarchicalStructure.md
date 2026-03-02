@@ -21,13 +21,6 @@ A hierarchical organisation of the learning structure helps create granular lear
 - Identify adapter's license
 - Use attribution
 
-## Target Audience
-
-- attendees of the FAIR-by-Design ToT live webinar
-
-## Duration
-
-40 mins
 
 ## Prerequisites
 
@@ -35,11 +28,6 @@ A hierarchical organisation of the learning structure helps create granular lear
 - Completed [Stage 2: Discover](../../Stage%202%20–%20Discover/03-Existing%20learning%20materials/03-Existing%20learning%20materials.md)
 - Completed [04-Conceptualisation](../04-Conceptualisation/04-Conceptualisation.md)
 
-## Learning Tools
-
-- Training BBB room
-- Browser
-- Menti access or BBB quiz interaction
 
 ## Learning structure
 

@@ -20,23 +20,11 @@ Once all learning units are completed it is time to complete the learning materi
 - generate overall license
 - develop facilitation guide
 
-## Target Audience
-
-- attendees of the FAIR-by-Design ToT live webinar
-
-## Duration
-
-25 mins
-
 ## Prerequisites
 
 - Completed [Stage 3: Design](../../Stage%203%20–%20Design/04-Conceptualisation/04-Conceptualisation.md)
 - Completed [11-Accessibility](../11-Accessibility/11-Checking_accessibility.md)
 
-## Learning Tools
-
-- Training BBB room
-- Obsidian
 
 ## Final learning content editing 
 
@@ -89,11 +77,11 @@ To do this you need to perform the following steps:
 
 ### Defining the Facilitation Guide
 
-The final learning content that needs to be developed is the overall Facilitation Guide. This document was introduced in the [Design](../../Stage%203%20–%20Design/07-Facilitation/07-Facilitation.md) stage where its structure was defined. A guiding template has also been prepared for this document which can be found in the templates repository under the name [template_faciliator_guide.md](https://github.com/FAIR-by-Design-Methodology/templates/blob/main/resources/template_facilitator_guide.md).
+The final learning content that needs to be developed is the overall Facilitation Guide. This document was introduced in the [Design](../../Stage%203%20–%20Design/07-Facilitation/07-Facilitation.md) stage where its structure was defined. A guiding template has also been prepared for this document which can be found in the templates repository under the name [template_faciliator_guide.md](https://github.com/FAIRbyDesign-UCPH/templates/blob/main/resources/template_facilitator_guide.md).
 
 Rename the file by replacing the word template with the name of your training, and edit its contents so that it can describe the specifics of the training you are preparing. 
 
-If you are looking for inspiration, you can take a look at the [facilitation guide prepared for this training](https://github.com/FAIR-by-Design-Methodology/FAIR-by-Design_ToT/blob/main/resources/FAIR-by-Design_ToT_facilitator_guide.md).
+If you are looking for inspiration, you can take a look at the [facilitation guide prepared for this training](https://github.com/FAIRbyDesign-UCPH/FAIR-by-Design-Training-of-Trainers-UCPH/blob/main/resources/FAIR-by-Design_ToT_facilitator_guide.md).
 
 ### Activity
 

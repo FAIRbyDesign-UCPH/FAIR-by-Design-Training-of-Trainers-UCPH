@@ -19,32 +19,21 @@ The learning materials targeted for consumption by the learners/trainees are usu
 - Configure Moodle course parameters
 - Add different elements to the course
 
-## Target Audience
-
-- Attendees of the FAIR-by-Design ToT live webinar
-
-## Duration
-
-35 mins
 
 ## Prerequisites
 
 [16-Publishing Preparations](../16-Publishing%20Preparations/16-Publishing%20Preparations.md)
 
-## Learning Tools
-
-- Training BBB room
-- Moodle learning platform
 
 ## Description of the procedure for publishing to the learning platform
 
-To make available the learning materials for learners and trainees we will be using the Skills4EOSC learning platform, available at [learning.skills4eosc.eu](https://learning.skills4eosc.eu). The learning platform is based on the popular and widely used open source learning management system (LMS) called [Moodle](https://moodle.org).
+In this example, we look at how to publish to a learning management system called [Moodle](https://moodle.org) rather than Absalon. Use this lesson to inspire you - how can you publish FAIR learning materials in the LMS your institution requires you to use?
+
+## Getting started
 
 The initial step needed to publish a course at the learning platform is to request one from the platform's administrators. 
 
 > NOTE: Before asking for the course creation, please create an account on the platform, using the "Log in" link at the upper right corner of the welcome page. 
-
-To do so, write an email to [learning-support@skills4eosc.eu](mailto:learning-support@skills4eosc.eu) requesting the creation of the new course and stating the names/emails of the people that will be assigned Trainer (Teacher) role for the course.
 
 >NOTE: At least one person should be assigned the role Manager, allowing her/him to add more teachers to the course later. 
 
@@ -240,68 +229,14 @@ Using the "Templates" tab of the newly created feedback form, select the templat
 
 Select the link "Use this template" and "Delete old item" option when saving. 
 
-### Adding BBB rooms
-
-For the courses that will have webinar delivery style, or for the courses that will require recording of the delivery, there is the option to add BigBlueButton (BBB) room. 
-
-The BBB room can be added just like any other activity or resource, by selecting the BigBlueButton resource type. 
-
-![Adding BigBlueButton room](./attachments/24-AddBBB.png)
-
-The main parameters of the BBB room are the room name and the instance type.
-
-![BigBlueButton room parameters](./attachments/25-BBBRoomParameters.png)
-
-The instance type can be
-- Room with recording, where the activity can be used for interactive classes, and the recordings of that classes will be available at the same place
-- Room only, where the room can be used just for interactive classes and no recording
-- Recording only, meaning that there will not be an interactive room, just previous recordings. 
-
-### Badges and certificates
-
-The certification mechanism is very important stimulation mechanism for the learners. It provides them recognition for the work, provide job market differentiations as well as verification of the gained skills. 
-
-Skills4EOSC T2.5 recommends the use of Open Digital Badges as means to describe the skills obtained with a training. As an example you can take a look at the set of badges that can be obtained for this particular training, wherein there is a defined badge for each separate stage of the FAIR-by-Design Methodology. Obtaining a per stage badge makes you a FAIR-by-Design Methodology Specialist in the given stage alone. The higher-level all encompassing FAIR instructor badge makes you an instructional designer that knows how to implement all stages of the FAIR-by-Design methodology inside and out. 
-
-In other words, using digital open badges you can describe the microcredentials that can be obtained by following and being assessed on part of the provided training, or on the training as a whole. Note that T2.5 is currently in the process of developing templates for the digital badges that you can then use a starting point for the visual design of the open badges for your training.
-
-In the following text, a brief introduction is provided to how you can create a badge for your training course.
-
-To add a badge to the course, use the "Badges" link, available through the link "More".
-
-![Adding a badge](./attachments/28-AddingBadge.png)
-
-After clicking the "Add new badge", two important steps need to be performed. Firstly, the badge needs to be created with a name, description, uploaded a graphics representation of the badge as well as set the expiry date (if needed). Once this is done, the next step is to define the criteria for earning that specific badge. 
-
-![Badge criteria](./attachments/29-BadgeCriteria1.png)
-
-The awarding criteria can be based on previously earned badges (for an overall course badge to be earned if micro-badges were earned before), full course completion, based on activity completions, gained competences or manually assigned. If the "Activity completion" criteria is selected, on the next page all activities of the course are presented and those which completion is recognised by this badge need to be selected. 
-
-It is recommended that the Activity completion set of criteria is used, as this will enable automatic issuing of the defined one or more digital badges. Furthermore, the Skills4EOSC learning platform is integrated with the Badgr backpack of digital badges, meaning that one can easily add the earned badge into their backpack, as well as share it on social media or other platforms. 
 
 ### Making the course visible to learners
 
 When the course is ready to be presented to the learners, it needs to be made visible on the learning platform. To make the course visible, in the course setting, the "Course visibility" options needs to be set to "Show".
 
-### Indexing the course in the EOSC catalogue
-
-The process of building catalogues of EOSC related courses is undergoing significant changes. Thus at the moment we do not provide any detailed instructions on how to ensure that the learning materials are indexed in the EOSC Catalogue. If you would like to receive a more detailed information regarding this option please contact T2.3 members.  
-
-## Activity: Adding content to the course on the learning platform
-
-The goal of this activity is to showcase how to add different types of content to the previously created course on the learning platform.
-For these purposes a Demo course has been created on the learning platform. All participants should have teacher role privileges and can try and test the described steps for adding different types of resources to the learning platform. 
-
-
 ## Key Takeaways and Information for Future Versions
 
-By adding all learning units as topic to the learning platform together with the link to the syllabus, the feedback form and the BBB room you have completed the minimum requirements for making the learning content available for learners. 
-
-More detailed instructions on how to use the learning platform will be provided in a separate Training of Trainers. Until then you can always use the FAIR-by-Design Methodology course on the platform as a blueprint for the organization and availability of the learning materials.
-
-Remember that any subsequent changes to the GitBook will automatically reflect on the learning platform via the provided links. However, if you make changes to the assessment questions or slide deck, you will need to manually update the content on the learning platform as well. 
-
-Finally, keep an eye on the upcoming deliverable from T2.5 that will focus on certification and recognition frameworks and provide more details on Digital Open Badges.
+By adding all learning units as topic to the learning platform together with the link to the syllabus and the feedback form you have completed the minimum requirements for making the learning content available for learners. 
 
 ## Suggested Reading
 

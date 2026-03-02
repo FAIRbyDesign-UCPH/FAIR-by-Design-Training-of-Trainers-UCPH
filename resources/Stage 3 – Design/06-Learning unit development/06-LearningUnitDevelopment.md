@@ -20,23 +20,10 @@ Once the structure is defined and the reused content is identified and attribute
 - Design learning content
 - Define assessment strategy
 
-## Target Audience
-
-- attendees of the FAIR-by-Design ToT live webinar
-
-## Duration
-
-45 mins
-
 ## Prerequisites
 
 Completed [Stage 1: Prepare](../../Stage%201%20–%20Prepare/01-FAIR%20skills%20&%20principles/01-FAIR%20skills%20&%20principles.md)
 
-## Learning Tools
-
-- Training BBB room
-- Browser
-- Text editor
 
 ## Rich learning experience 
 

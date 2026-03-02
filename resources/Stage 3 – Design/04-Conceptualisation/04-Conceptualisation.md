@@ -108,12 +108,6 @@ The following is a **list of all required syllabus fields**:
 
 As syllabus is one of the required documents for the FAIR-by-Design learning materials, you must ensure that your syllabus contains **all elements** provided in this section. Only in this way you will ensure that your learning materials contain all necessary metadata information together with the traditional syllabus information that is provided.
 
-### Activity
-
-Review the [FAIR-by-Design Methodology for Learning Materials Training of Trainers](https://fair-by-design-methodology.github.io/FAIR-by-Design_ToT/latest/) syllabus that has been developed based on the provided template as a complete example.
-
-Think how you would change this example to adapt it so that it can become your own syllabus for the Open Science for policy makers training. Use the information you gathered and defined in the previous activities.
-
 ## Summary
 
 Building a concept map of your training is a creative way of organising your ideas and inspiration gathered from the discovery step. Armed with this knowledge you are able to define the concepts and sub-concepts that you need to provide learners with to ensure achieving their learning objectives. 

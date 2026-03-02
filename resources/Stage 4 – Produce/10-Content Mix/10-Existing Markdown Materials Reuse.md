@@ -24,23 +24,11 @@ Since the discovered content can be in any file format, additional effort might 
 - Manipulate existing learning objects, making them compliant with the FAIR-by-Design methodology
 - Define slides in an open format
 
-## Target Audience
-
-- attendees of the FAIR-by-Design ToT live webinar
-
-## Duration
-
-85 mins
-
 ## Prerequisites
 
 - Completed [Stage 3: Design](../../Stage%203%20–%20Design/04-Conceptualisation/04-Conceptualisation.md)
 - Completed [09 - Content Development](../09-Content%20Development/09-Markdown%20Syntax.md)
 
-## Learning Tools
-
-- Training BBB room
-- optional: Obsidian & Quarto
 
 ## Activity: Reusing Existing Content
 

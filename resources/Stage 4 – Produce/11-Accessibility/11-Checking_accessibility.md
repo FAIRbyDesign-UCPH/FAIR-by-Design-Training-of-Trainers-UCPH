@@ -17,25 +17,11 @@ All developed learning content should be accessible to a wide range of learners 
 - facilitate access to the learning content
 - validate accessibility of the learning materials
 
-## Target Audience
-
-- attendees of the FAIR-by-Design ToT live webinar
-
-## Duration
-
-55 mins
-
 ## Prerequisites
 
 Completed [09-Content Development](../09-Content%20Development/09-Markdown%20Syntax.md)
 Completed [10-Content Mix](../10-Content%20Mix/10-Existing%20Markdown%20Materials%20Reuse.md)
 
-## Learning Tools
-
-- Training BBB room
-- Power Point
-- Chrome Browser
-- LERA Chrome plugin
 
 ## Accessible learning materials
 
@@ -257,7 +243,7 @@ Note that when exporting a Power Point presentation to PDF on Windows and on Mac
 
 #### Moodle accessibility checks
 
-The Skills4EOSC learning platform is based on the Moodle Learning Management System (LMS). If you are going to be adding content directly in the training course on the platform (not just linking to external resources such as the learner's notebook) then you need to make sure you check the accessibility of this content as well.
+Moodle Learning Management Systems (LMS) have in-built accessibility checks. If you are going to be adding content directly on the LMS platform (not just linking to external resources such as the learner's notebook) then you need to make sure you check the accessibility of this content as well.
 
 To perform this step you can use the integrated accessibility checker tool that is part of the ribbon of tools available when editing content in Moodle. This is usually the second icon from right to left that looks similar to the vitruvian man, as presented in the image below.
 

@@ -21,23 +21,6 @@ Thus, becoming familiar with the FAIR principles and their implementation is an 
 - Define FAIR learning objects
 - Determine FAIRness of learning objects 
 
-## Target Audience
-
-- attendees of the FAIR-by-Design ToT live webinar
-
-## Duration
-
-35 mins
-
-## Prerequisites
-
-none
-
-## Learning Tools
-
-- Training BBB room
-- Browser
-- Menti access or BBB quiz interaction
 
 ## FAIR Instructional Design Skills
 

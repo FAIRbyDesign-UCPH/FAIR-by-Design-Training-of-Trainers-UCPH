@@ -20,26 +20,15 @@ Before starting work on the production on actual FAIR-by-Design learning materia
 - Use the GitHub web portal to add collaborators to an existing organization or repository
 - Solve potential change conflicts arising when multiple authors make changes to the same file concurrently
 
-## Target Audience
-
-- Attendees of the FAIR-by-Design ToT live webinar
-
-## Duration
-
-15 mins
 
 ## Prerequisites
 
 All previous units in the [Stage 4: Produce](../../Stage%204%20–%20Produce/08-Development%20Tools/08-Introduction%20to%20Markdown%20and%20Git.md), including [13-Internal QA](../13-Internal%20QA/13-Internal_QA.md).
 
-## Learning Tools
-
-- Training BBB room
-- Obsidian
 
 ## Preparing the Collaborative Environment
 
-The following steps are to be followed by a single contributor who will establish the GitHub organization, fork the [templates](https://github.com/FAIR-by-Design-Methodology/templates) Git repository, and then invite all remaining collaborators. Once granted access, the collaborators will simply need to clone the new repository and start working on the materials themselves. We assume that general knowledge of Git terminology and access to previously discussed software tools including GitHub Desktop and Obsidian.
+The following steps are to be followed by a single contributor who will establish the GitHub organization, fork the [templates](https://github.com/FAIRbyDesign-UCPH/templates) Git repository, and then invite all remaining collaborators. Once granted access, the collaborators will simply need to clone the new repository and start working on the materials themselves. We assume that general knowledge of Git terminology and access to previously discussed software tools including GitHub Desktop and Obsidian.
 
 1. <span id="step1">Login to GitHub and create a new organization by clicking on your profile picture in the top right corner and selecting `Your Organizations`. Initiate the new organization wizard by clicking on the `New organization` button.</span>
 2. You will be asked to select a GitHub plan for your new organization. The `Free` plan includes everything that might be needed for the development of FAIR-by-Design learning materials, including hosting of a Git book. The `Free` plan is equivalent to the `Team` plan when it comes to public repositories, so that is what we will be using shortly. Choose the `Free` plan by clicking on the `Create a free organization button`.

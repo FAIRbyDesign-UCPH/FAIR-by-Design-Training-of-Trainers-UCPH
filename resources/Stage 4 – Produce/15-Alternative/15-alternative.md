@@ -16,22 +16,9 @@ The use of MD file formats for the development of the learning content is a stro
 - Adapt to using other file formats
 - Assess pros and cons of alternative approach
 
-## Target Audience
-
-- attendees of the FAIR-by-Design ToT live webinar
-
-## Duration
-
-20 mins
-
 ## Prerequisites
 
 Completed [12-Content Finalisation](../12-Content%20Finalisation/12-Content_finalisation.md)
-
-## Learning Tools
-
-- Training BBB room
-- Browser
 
 ## Win some, lose some 
 

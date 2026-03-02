@@ -23,25 +23,12 @@ The purpose of this learning unit is to introduce relevant tools and file format
 - Operate an already created automated publishing workflow for processing any changes made to the learning materials
 - Explain the process of making changes to the learning objects and publishing them as a Git book
 
-## Target Audience
-
-- Attendees of the FAIR-by-Design ToT live webinar
-
-## Duration
-
-120 mins
 
 ## Prerequisites
 
 Completed [Stage 3: Design](../../Stage%203%20–%20Design/04-Conceptualisation/04-Conceptualisation.md)
 
-## Learning Tools
 
-- Training BBB room
-- Browser
-- Menti access or BBB quiz interaction
-- GitHub Desktop Software
-- Obsidian Markdown Editor
 
 ## File Formats
 

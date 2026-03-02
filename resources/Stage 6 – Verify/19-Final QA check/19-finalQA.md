@@ -20,27 +20,13 @@ For these purposes you can use the [QA guidelines and checklists developed by Sk
 - Perform a QA review of the learning materials
 - Rate FAIRness of learning materials
 
-## Target Audience
-
-- attendees of the FAIR-by-Design ToT live webinar
-
-## Duration
-
-40 mins
-
 ## Prerequisites
 
 Completed [Stage 5 - Publish](../../Stage%205%20–%20Publish/16-Publishing%20Preparations/16-Publishing%20Preparations.md)
 
-## Learning Tools
-
-- Training BBB room
-- Learning platform QA forms
-- T2.4 QA checklists
-
 ## Self-check QA
 
-The publication process contains very important steps that aim to create FAIR learning materials accessible to both learners and instructors. Therefore, it is imperative that you first go through a self-check phase to ensure everything is as intended. For these purposes you can use the [QA guidelines and checklists developed by T2.4](https://doi.org/10.5281/zenodo.8305482).
+The publication process contains very important steps that aim to create FAIR learning materials accessible to both learners and instructors. Therefore, it is imperative that you first go through a self-check phase to ensure everything is as intended. For these purposes you can use the [QA guidelines and checklists developed by Skills4EOSC project, T2.4](https://doi.org/10.5281/zenodo.8305482).
 
 ![checklist icon](./attachments/checklist-1622517_1280.png){: style="height:200px;"}
 
@@ -112,16 +98,6 @@ As you manage to comply with the rest of the items you work on increasing the FA
 |  | FAIR |   | FAIR | Results | Does   the resource align with the FAIR-by-design methodology principles? |
 
 
-### Activity
-
-Both the general and the FAIR-by-Design methodology QA checklists are made available as forms on the Skills4EOSC learning platform. Perform a QA self-check using the forms and analyse the obtained score.
-
-![QA self-check links on the learning platform](./attachments/self-check_moodle.png)
-
-Based on the results of the self-check QA analysis you should go back and make adjustments and re-publish again if necessary.
-
-Don't forget that you should use **all** QA checklists provided by T2.4 when developing the Skills4EOSC training materials.
-
 ## External QA
 
 To truly view the produced learning materials through the lenses of learners and other instructors, you need to perform a QA check with the help of an external party. This external party should be someone who has not been involved in any step of the materials design, better yet has not seen the materials ever before. In this way, you will have a pair of fresh eyes that will review the learning materials without any cognitive bias. 
@@ -138,7 +114,7 @@ The high impact recommendations in the QA review report should be resolved as so
 
 ### Learning platform QA
 
-In addition to the checklists the external QA reviewer should also ensure that the course on the Skill4EOSC learning platform is working properly.
+In addition to the checklists the external QA reviewer should also ensure that the course on the chosen learning platform works correctly.
 
 For instructor-led trainings and courses this must be done before the scheduled training takes place. For these purposes the external QA reviewer should assume the role of a learner and try to:
 

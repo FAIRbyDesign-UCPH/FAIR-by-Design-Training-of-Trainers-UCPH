@@ -17,22 +17,9 @@ After the learning content has been fully developed and finalised, it is time to
 - assess learning content
 - review learning materials
 
-## Target Audience
-
-- attendees of the FAIR-by-Design ToT live webinar
-
-## Duration
-
-20 mins
-
 ## Prerequisites
 
 Completed [12-Content Finalisation](../12-Content%20Finalisation/12-Content_finalisation.md)
-
-## Learning Tools
-
-- Training BBB room
-- Browser
 
 
 ## Who should perform the internal QA?
